@@ -1,6 +1,8 @@
 .idea
 credentials
 
+zappa_settings.json
+
 NUGU_6TMT/settings.py
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,django
